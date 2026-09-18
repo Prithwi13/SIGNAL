@@ -78,7 +78,7 @@ Output files are named `signal_{mode}_{timestamp}.webm` and play in Chrome, Fire
 git clone https://github.com/yourname/signal.git
 
 # Open — that's it
-open signal.html
+open index.html
 ```
 
 Or just download `signal.html` and open it directly. No server required.
@@ -110,7 +110,7 @@ Or just download `signal.html` and open it directly. No server required.
 ## File Structure
 
 ```
-signal.html   ← entire application, ~1400 lines
+index.html   ← entire application, ~1400 lines
 README.md
 ```
 
